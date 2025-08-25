@@ -9,8 +9,8 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Mr"
-title_separator          : "."
+title                    : "Yanlin Liu"
+title_separator          : "-"
 name                     : &name "Yanlin Liu"
 description              : &description "PhD Student in PolyU"
 url                      : https://yanlinliu19.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Yanlin Liu (Russell)"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "PhD Student in PolyU"
   location         : "Hong Kong, China"
   employer         : "Hongkong Polytechnic University"
   uri              : # URL
