@@ -29,5 +29,5 @@ Research Interest
 
 For more info
 ------
-More info about Yanlin Liu can be found in [Email](russell_liu1202@126.com). 
+For enquiry or academic cooperation, please contact russell_liu1202@126.com . 
 More info about Prof. Bi can be found in [Dr.Bi's Research Group](https://www.polyu.edu.hk/cee/~kaimbi/).
