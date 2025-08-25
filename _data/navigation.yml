@@ -11,13 +11,13 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
+  - title: "Projects"
     url: /talks/    
 
-  - title: "Teaching"
+  - title: "Conference"
     url: /teaching/    
     
-  - title: "Portfolio"
+  - title: "Life Balance"
     url: /portfolio/
         
   - title: "Blog Posts"
@@ -29,5 +29,5 @@ main:
   # - title: "CV"
   #   url: /cv-json/
     
-  - title: "Guide"
-    url: /markdown/
+  #- title: "Guide"
+  #  url: /markdown/
