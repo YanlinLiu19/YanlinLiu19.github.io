@@ -7,7 +7,7 @@ venue: "Department of Sporting, Tongji University"
 date: 2024-10-20
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+For one and half year to work for Department of Sport.
 
 Heading 1
 ======
