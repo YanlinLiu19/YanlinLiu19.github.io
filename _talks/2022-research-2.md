@@ -2,7 +2,7 @@
 title: "The effect of Turbulence Intensity on the Unsteady Gust-loading on a 5:1 Rectangular Cylinder"
 collection: talks
 type: "Paper"
-permalink: /talks/2025-03-01-research-1
+permalink: /talks/2022-research-2
 venue: "Chongqing University"
 date: 2022-03-10
 location: "Chongqing, China"
