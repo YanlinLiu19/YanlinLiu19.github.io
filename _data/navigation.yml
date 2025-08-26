@@ -16,8 +16,8 @@ main:
     url: /publications/
 
 
-  - title: "Conference"
-    url: /teaching/    
+  #- title: "Conference"
+  #  url: /teaching/    
 
     
   - title: "Life Balance"
