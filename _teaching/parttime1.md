@@ -1,20 +1,21 @@
 ---
 title: "Teaching experience 1"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Master Peirod"
+permalink: /teaching/parttime1
+venue: "Department of Sporting, Tongji University"
+date: 2024-10-20
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
 
 Heading 1
 ======
+photo in basketball
 
 Heading 2
 ======
+video in basketball
 
 Heading 3
 ======
