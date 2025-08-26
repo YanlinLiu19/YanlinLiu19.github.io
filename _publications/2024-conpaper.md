@@ -3,7 +3,7 @@ title: "基于视感舒适度的涡激共振性能评价标准研究"
 collection: publications
 category: conferences
 permalink: /publication/2024-conpaper
-excerpt: 'My contribution: '
+excerpt: 'My contribution: Formal analysis; Methodology; Visualization; Writing–original draft.'
 date: 2024-02-17
 venue: '第二十六届全国桥梁学术会议论文集（下册）'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
