@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2022-jweia
 excerpt: 'My contribution: Formal analysis, Writing – original draft, preparation.'
-date: 2022-3-20
+date: 2022-3-20 
 venue: 'Journal of Wind Engineering and Industrial Aerodynamics'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://doi.org/10.1016/j.jweia.2022.104994'
