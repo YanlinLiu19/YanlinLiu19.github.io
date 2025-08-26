@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 1"
+title: "Course Video Production"
 collection: teaching
 type: "Master Peirod"
 permalink: /teaching/parttime1
