@@ -5,9 +5,8 @@ collection: portfolio
 ---
 
 
-Up to Now: 
----
-
+Up to Now:  
+---  
 Mayday, 2023  
 Hui Chun Dan Band, 2023  
 One Republic, 2024  
