@@ -7,18 +7,11 @@ collection: portfolio
 
 Up to Now: 
 
-Mayday 
-
-Hui Chun Dan Band 
-
-One Republic 
-
-Eason Chen 
-
-New Pants Band 
-
-Jay Chou 
-
-Ed Sheeran 
-
+Mayday  
+Hui Chun Dan Band  
+One Republic  
+Eason Chen  
+New Pants Band  
+Jay Chou  
+Ed Sheeran  
 ...
