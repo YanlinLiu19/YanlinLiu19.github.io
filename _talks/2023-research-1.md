@@ -2,7 +2,7 @@
 title: "Different Buffeting Response Analysis of Super-long Span Suspension Bridges"
 collection: talks
 type: "Thesis"
-permalink: /talks/2022-research-2
+permalink: /talks/2023-research-1
 venue: "Chongqing University"
 date: 2021-11-10
 location: "Chongqing, China"
