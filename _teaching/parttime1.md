@@ -7,15 +7,15 @@ venue: "Department of Sporting, Tongji University"
 date: 2024-10-20
 ---
 
-For one and half year to work for Department of Sport.
+For Teaching Videos of Basketball Course from the Physical Education Department of Tongji University.
 
-Video Script Edit
+Video Script Edit 
 ======
 photo in basketball
 
-Video Shoot
+Video Shoot 
 ======
 video in basketball
 
-Video edit & Production
+Video edit & Production 
 ======
