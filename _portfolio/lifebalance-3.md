@@ -5,13 +5,19 @@ collection: portfolio
 ---
 
 Equipment List：
+---
 
-Conon R6 Mark II
+Conon R6 Mark II  
+DJI Action 4  
+iPhone 16 Pro  
 
-DJI Action 4
+Used List:
+---
 
-iPhone 16 Pro
+Sony A7M4 & A7C2  
+Conon 5D Mark II  
+Nikon Z5  
+DJI Mavic 4 Pro  
+DJI Phantom 4  
+...  
 
-and i used Sony A7M4 & A7C2 , Conon 5D Mark II, Nikon Z5, ...
-
-also DJI Mavic 4 pro, DJI Phantom 4
