@@ -6,12 +6,13 @@ collection: portfolio
 
 
 Up to Now: 
+---
 
-Mayday  
-Hui Chun Dan Band  
-One Republic  
-Eason Chen  
-New Pants Band  
-Jay Chou  
-Ed Sheeran  
+Mayday, 2023  
+Hui Chun Dan Band, 2023  
+One Republic, 2024  
+Eason Chen, 2024  
+New Pants Band, 2024  
+Jay Chou, 2024  
+Ed Sheeran, 2025  
 ...
