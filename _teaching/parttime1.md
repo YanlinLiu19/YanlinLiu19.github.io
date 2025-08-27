@@ -17,5 +17,5 @@ Video Shoot
 ======
 video in basketball
 
-Videeo edit & Production
+Video edit & Production
 ======
