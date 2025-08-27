@@ -12,11 +12,11 @@ main:
     url: /talks/   
 
 
-  - title: "Publication"
+  - title: "Publications"
     url: /publications/
 
 
-  - title: "Part-time Job"
+  - title: "Part-time Jobs"
     url: /teaching/    
 
     
@@ -24,7 +24,7 @@ main:
     url: /portfolio/
 
         
-  - title: "Blog Post"
+  - title: "Blog Posts"
     url: /year-archive/
 
     
