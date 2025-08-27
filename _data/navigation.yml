@@ -12,7 +12,7 @@ main:
     url: /talks/   
 
 
-  - title: "Publications"
+  - title: "Publication"
     url: /publications/
 
 
@@ -24,7 +24,7 @@ main:
     url: /portfolio/
 
         
-  - title: "Blog Posts"
+  - title: "Blog Post"
     url: /year-archive/
 
     
