@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Yanlin Liu (劉彥麟) is currently a PhD Student under supervison of [Prof. Bi Kaiming](https://www.polyu.edu.hk/cee/~kaimbi/) at Departmant of Civil and Environmental Engineering in [Hongkong Polyutechnic University](https://www.polyu.edu.hk/). My primary research focuses on the Extreme hazard resilience assessment of Transmission tower clusters in the Hong Kong region. To date, I have published 2 research papers, obtained 1 invention patent, and registered 1 software copyright.
+Yanlin Liu (劉彥麟) is currently a PhD Student under supervison of [Prof. Kaiming BI](https://www.polyu.edu.hk/cee/~kaimbi/) at Departmant of Civil and Environmental Engineering in [Hongkong Polytechnic University](https://www.polyu.edu.hk/). My primary research focuses on the Extreme hazard resilience assessment of Transmission tower clusters in the Hong Kong region. To date, I have published 2 research papers, obtained 1 invention patent, and registered 1 software copyright.
 
 During my master’s studies, I worked under the supervision of [Prof. Rujin Ma](https://bridge.tongji.edu.cn/5f/cf/c14928a155599/page.htm) at Bridge Design Method and Progress of Tongji University. My research encompassed Optimization of design wind loads for Long-span suspension bridges, Fatigue performance analysis of steel truss bridge joint plates, and Vision-based evaluation of vortex-induced vibration comfort for long-span bridges.
 
