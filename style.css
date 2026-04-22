@@ -1,0 +1,213 @@
+/* 全局变量定义 */
+:root {
+    --nature-green: #005a32; /* Nature 经典绿 */
+    --nature-light-bg: #fdfdfb; /* 类似纸张的暖白色 */
+    --text-main: #1a1a1a;
+    --text-light: #555;
+    --nav-bg: rgba(255, 255, 255, 0.9);
+}
+
+body {
+    /* 1. 回归衬线体：优先使用 Noto Serif SC，这更有 Nature 的人文气质 */
+    font-family: 'Noto Serif SC', 'Times New Roman', serif;
+    background-color: var(--nature-light-bg);
+    color: var(--text-main);
+    margin: 0;
+
+    /* 2. 核心调整：设置全局行间距为 1.8，让文字不再拥挤 */
+    line-height: 1.8;
+    font-size: 1.0rem; /* 稍微调大一点点 */
+}
+
+/* 顶部装饰条 */
+body::before {
+    content: "";
+    display: block;
+    height: 10px;
+    background: var(--nature-green);
+    width: 100%;
+}
+
+.container {
+    max-width: 850px;
+    margin: 60px auto;
+    padding: 0 40px;
+}
+
+/* 标题样式：使用衬线体 */
+h1, h2 {
+    font-family: 'Noto Serif SC', serif;
+    font-weight: 700;
+}
+
+header {
+    margin-bottom: 50px;
+}
+
+.profile-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.en-name {
+    font-weight: 300;
+    color: var(--text-light);
+}
+
+.title {
+    font-size: 1.1rem;
+    color: var(--nature-green);
+    margin: 10px 0;
+}
+
+/* 头像微调 */
+.avatar img {
+    width: 140px;
+    height: 140px;
+    border-radius: 12px; /* 方圆角比纯圆更学术、现代 */
+    box-shadow: 0 4px 20px rgba(0,0,0,0.08); /* 淡淡的阴影 */
+    object-fit: cover;
+}
+
+/* 章节样式 */
+.section-title {
+    font-family: 'Noto Serif SC', serif;
+    border-left: 4px solid var(--nature-green); /* 改为左侧竖线，更有设计感 */
+    padding-left: 15px;
+    margin-top: 50px;
+    color: var(--text-main);
+}
+
+/* 导航栏样式 */
+.navbar {
+    position: sticky;
+    top: 0;
+    background-color: var(--nav-bg);
+    backdrop-filter: blur(10px); /* 磨砂玻璃效果 */
+    border-bottom: 1px solid #eee;
+    z-index: 1000;
+    padding: 12px 0;
+}
+
+.nav-container {
+    max-width: 850px;
+    margin: 0 auto;
+    padding: 0 40px;
+    display: flex;
+    justify-content: center; /* 改为居中对齐，解决别扭感 */
+    gap: 120px; /* 增加间距 */
+}
+
+.nav-container a {
+    text-decoration: none;
+    color: var(--text-main);
+    font-size: 0.9rem;
+    font-weight: 600;
+    letter-spacing: 0.5px;
+    text-transform: uppercase; /* 英文大写更显高级 */
+    transition: color 0.3s ease;
+}
+
+.nav-container a:hover {
+    color: var(--nature-green);
+}
+
+/* 容器间距优化 */
+.container {
+    max-width: 850px;
+    margin: 40px auto;
+    padding: 0 40px;
+}
+
+/* 修正锚点跳转位置（防止被导航栏遮挡） */
+section {
+    scroll-margin-top: 80px;
+}
+
+/* 教育项目布局：学校名和日期分居两侧 */
+.edu-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-bottom: 1.5rem;
+}
+
+.edu-info strong {
+    font-size: 1.1rem;
+    color: var(--text-main);
+}
+
+.edu-info p {
+    margin: 5px 0 0 0;
+    color: var(--text-light);
+}
+
+.year {
+    font-family: 'Inter', sans-serif;
+    font-weight: 600;
+    color: var(--nature-green);
+    white-space: nowrap;
+}
+
+/* 研究兴趣列表样式 */
+.interests-list {
+    padding-left: 20px;
+}
+
+.interests-list li {
+    margin-bottom: 8px;
+    list-style-type: square; /* 使用方块点增加学术感 */
+}
+
+/* 论文卡片 */
+.pub-card {
+    display: flex;
+    margin-bottom: 25px;
+    gap: 20px;
+}
+
+.pub-year {
+    font-weight: bold;
+    color: var(--nature-green);
+    min-width: 45px;
+}
+
+.pub-title {
+    font-weight: 600;
+    margin: 0;
+}
+
+.self {
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.pub-venue {
+    font-style: italic;
+    font-size: 0.9rem;
+    color: var(--text-light);
+}
+
+.tag {
+    background: var(--nature-green);
+    color: white;
+    padding: 2px 8px;
+    font-size: 0.7rem;
+    border-radius: 3px;
+    font-style: normal;
+}
+
+.pub-links a {
+    font-size: 0.85rem;
+    margin-right: 10px;
+    color: var(--nature-green);
+    text-decoration: none;
+}
+
+footer {
+    margin-top: 80px;
+    font-size: 0.8rem;
+    color: #999;
+    text-align: center;
+}
