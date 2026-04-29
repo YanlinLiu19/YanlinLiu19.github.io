@@ -55,8 +55,10 @@ body::before {
     color: var(--text-main);
     font-size: 0.9rem;
     font-weight: 600;
+    letter-spacing: 0.5px;
     text-transform: uppercase;
-    font-family: 'Inter', sans-serif;
+    transition: color 0.3s ease;
+    /* font-family: 'Inter', sans-serif; */
 }
 
 .nav-container a:hover, .nav-container a.active {
@@ -76,7 +78,7 @@ header { margin-bottom: 50px; }
 .profile-header { display: flex; justify-content: space-between; align-items: center; }
 .title { font-size: 1.1rem; color: var(--nature-green); margin: 10px 0; }
 .avatar img { width: 140px; height: 140px; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.08); object-fit: cover; }
-.contact-links a { text-decoration: none; color: var(--text-light); font-size: 0.9rem; }
+/* .contact-links a { text-decoration: none; color: var(--text-light); font-size: 0.9rem; } */
 
 /* --- Publications 专用排版 --- */
 .pub-card {
