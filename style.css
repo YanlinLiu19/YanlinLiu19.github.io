@@ -165,50 +165,28 @@ section {
     list-style-type: square; /* 使用方块点增加学术感 */
 }
 
-/* 论文卡片 */
-.pub-card {
+/* Awards 样式 - 保持与 Education 一致 */
+.award-item {
     display: flex;
-    margin-bottom: 25px;
-    gap: 20px;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-bottom: 1.2rem; /* 稍微紧凑一点 */
 }
 
-.pub-year {
-    font-weight: bold;
-    color: var(--nature-green);
-    min-width: 45px;
+.award-info strong {
+    font-size: 1.05rem;
+    color: var(--text-main);
+    display: block; /* 强制换行 */
 }
 
-.pub-title {
-    font-weight: 600;
-    margin: 0;
-}
-
-.self {
-    font-weight: bold;
-    text-decoration: underline;
-}
-
-.pub-venue {
-    font-style: italic;
+.award-info p {
+    margin: 2px 0 0 0;
     font-size: 0.9rem;
     color: var(--text-light);
+    font-family: 'Inter', sans-serif; /* 辅助说明使用无衬线体更清晰 */
 }
 
-.tag {
-    background: var(--nature-green);
-    color: white;
-    padding: 2px 8px;
-    font-size: 0.7rem;
-    border-radius: 3px;
-    font-style: normal;
-}
-
-.pub-links a {
-    font-size: 0.85rem;
-    margin-right: 10px;
-    color: var(--nature-green);
-    text-decoration: none;
-}
+/* 这里的 .year 会直接继承你之前写好的绿色加粗样式 */
 
 footer {
     margin-top: 80px;

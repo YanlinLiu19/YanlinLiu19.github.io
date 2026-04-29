@@ -26,7 +26,7 @@ body::before {
 
 .container {
     max-width: 850px;
-    margin: 60px auto;
+    margin: 40px auto;
     padding: 0 40px;
 }
 
